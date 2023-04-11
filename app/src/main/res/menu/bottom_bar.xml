@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:checkable="false"
+        android:icon="@drawable/ana_sayfa"
+
+        android:title="Ana Sayfa" />
+    <item android:id="@+id/gozat"
+        android:icon="@drawable/goz_at"
+        android:title="Göz At"
+        />
+    <item
+        android:id="@+id/sasirt"
+        android:icon="@drawable/sasirt2"
+        android:title="Beni şaşırt"/>
+    <item android:id="@+id/kitapligim"
+        android:icon="@drawable/kitapligim"
+        android:title="Kitaplığım"
+        />
+    <item android:id="@+id/podcast"
+        android:icon="@drawable/podcast"
+        android:title="Podcast"
+        />
+</menu>
